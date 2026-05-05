@@ -63,7 +63,7 @@
 
 ## Overall Learning 
 
-> _This is a placeholder. Replace the text below with your personal learning summary._
+
 During this course, I learned the fundamentals of web development and project design.
 I gained hands-on experience with HTML, CSS, JavaScript and strengthened my skills in 
 problem-solving, teamwork, documentation, and delivering real-world project solutions.
@@ -72,7 +72,7 @@ problem-solving, teamwork, documentation, and delivering real-world project solu
 <h2 style="color:#333;"> Projects Completed </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong><a href="#project1">Project 1:</a></strong> &lt;!-- Add project title → --&gt;</p>
+<p><strong><a href="#project1">Project 1:</a></strong> RentWise-Property Management System </p>
 
 <p><strong><a href="#project2">Project 2:</a></strong> &lt;!-- Add project title → --&gt;</p>
 
