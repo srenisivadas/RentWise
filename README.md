@@ -85,8 +85,7 @@ problem-solving, teamwork, documentation, and delivering real-world project solu
 <!-- Project 1 -->
 <h3 id="project1">Project 1: <!-- Add Project Title --></h3>
 <p>
-  This project involved designing and developing a basic functional module using the core concepts taught in the course.
-  It focused on understanding requirements, creating structured code, and implementing key features.
+  RentWise is a full-stack property management system that connects landlords and tenants to manage leases, payments, maintenance requests, and communication in one platform.
 </p>
 <p>
   <a href="https://github.com/srenisivadas/RentWise/blob/main/SURE%20Trust%20project%20document%20Final.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
@@ -140,10 +139,10 @@ During my internship period, I participated in multiple community-oriented activ
 - **Blood Donation** – Donated blood and supported basic assistance tasks during the camp.
   
  <!-- add the location where you have panted -->
-- **Tree Plantation Drive** – Participated by planting trees and contributing to environmental improvement.
+- **Tree Plantation Drive** – Participated by planting  4 trees and contributing to environmental improvement.
 
   <!-- add the location where you helped -->
-- **Helping Elder Citizens** – Assisted two elderly individuals with simple daily tasks and provided support where needed. 
+- **Helping Elder Citizens** – Assisted eight elderly individuals with simple daily tasks and provided support where needed. 
 
 <!-- you can write impacts according to your experience in your words-->
 
